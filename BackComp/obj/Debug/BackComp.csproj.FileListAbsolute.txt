@@ -1,0 +1,28 @@
+c:\users\micah richards\documents\visual studio 2013\Projects\BackComp\BackComp\bin\Debug\BackComp.exe.config
+c:\users\micah richards\documents\visual studio 2013\Projects\BackComp\BackComp\bin\Debug\BackComp.exe
+c:\users\micah richards\documents\visual studio 2013\Projects\BackComp\BackComp\bin\Debug\BackComp.pdb
+c:\users\micah richards\documents\visual studio 2013\Projects\BackComp\BackComp\obj\Debug\BackComp.csprojResolveAssemblyReference.cache
+c:\users\micah richards\documents\visual studio 2013\Projects\BackComp\BackComp\obj\Debug\BackComp.Form1.resources
+c:\users\micah richards\documents\visual studio 2013\Projects\BackComp\BackComp\obj\Debug\BackComp.Properties.Resources.resources
+c:\users\micah richards\documents\visual studio 2013\Projects\BackComp\BackComp\obj\Debug\BackComp.csproj.GenerateResource.Cache
+c:\users\micah richards\documents\visual studio 2013\Projects\BackComp\BackComp\obj\Debug\BackComp.exe
+c:\users\micah richards\documents\visual studio 2013\Projects\BackComp\BackComp\obj\Debug\BackComp.pdb
+C:\Users\Micah Richards\Dropbox\Programming\C#\BackComp\BackComp\bin\Debug\BackComp.exe.config
+C:\Users\Micah Richards\Dropbox\Programming\C#\BackComp\BackComp\obj\Debug\BackComp.exe
+C:\Users\Micah Richards\Dropbox\Programming\C#\BackComp\BackComp\obj\Debug\BackComp.pdb
+C:\Users\Micah Richards\Dropbox\Programming\C#\BackComp\BackComp\bin\Debug\BackComp.exe
+C:\Users\Micah Richards\Dropbox\Programming\C#\BackComp\BackComp\bin\Debug\BackComp.pdb
+C:\Users\Micah Richards\Dropbox\Programming\C#\BackComp\BackComp\obj\Debug\BackComp.csprojResolveAssemblyReference.cache
+C:\Users\Micah Richards\Dropbox\Programming\C#\BackComp\BackComp\obj\Debug\BackComp.Form1.resources
+C:\Users\Micah Richards\Dropbox\Programming\C#\BackComp\BackComp\obj\Debug\BackComp.Properties.Resources.resources
+C:\Users\Micah Richards\Dropbox\Programming\C#\BackComp\BackComp\obj\Debug\BackComp.csproj.GenerateResource.Cache
+C:\Users\infof\Dropbox\Programming\C#\BackComp\BackComp\bin\Debug\BackComp.exe.config
+C:\Users\infof\Dropbox\Programming\C#\BackComp\BackComp\bin\Debug\BackComp.exe
+C:\Users\infof\Dropbox\Programming\C#\BackComp\BackComp\bin\Debug\BackComp.pdb
+C:\Users\infof\Dropbox\Programming\C#\BackComp\BackComp\obj\Debug\BackComp.csprojAssemblyReference.cache
+C:\Users\infof\Dropbox\Programming\C#\BackComp\BackComp\obj\Debug\BackComp.Form1.resources
+C:\Users\infof\Dropbox\Programming\C#\BackComp\BackComp\obj\Debug\BackComp.Properties.Resources.resources
+C:\Users\infof\Dropbox\Programming\C#\BackComp\BackComp\obj\Debug\BackComp.csproj.GenerateResource.cache
+C:\Users\infof\Dropbox\Programming\C#\BackComp\BackComp\obj\Debug\BackComp.csproj.CoreCompileInputs.cache
+C:\Users\infof\Dropbox\Programming\C#\BackComp\BackComp\obj\Debug\BackComp.exe
+C:\Users\infof\Dropbox\Programming\C#\BackComp\BackComp\obj\Debug\BackComp.pdb
