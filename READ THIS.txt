@@ -1,2 +1,0 @@
-Run the file in:
-\BackComp\BackComp\bin\Debug\BackComp.exe
